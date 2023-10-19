@@ -1,2 +1,2 @@
 # GOnoob
-A guide showing my slow progress in GO
+A guide showing my progress in GO
